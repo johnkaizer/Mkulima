@@ -26,8 +26,6 @@ h
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 s
 Capp/src/main/java/com/project/mkulima/activities/AccountFragment.kt,8\b\8b427aa6df79b2436c9b061a36a2c4a9939051cb
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 t
 Dapp/src/main/java/com/project/mkulima/activities/CategoryFragment.kt,4\1\41dfaffd2b9954f7d4f958d22a5d0e5f79742748
 p
